@@ -1,0 +1,11 @@
+Issue Type,Epic Name,Summary,Issue  ID,parent  ID,Epic Link 
+Epic,NEWMEGA-323,stt,101,,
+Story,,st1,100,,NEWMEGA-323
+Story,,st2,200,,NEWMEGA-323
+Subtask,,st3,102,100,
+Subtask,,st4,103,100,
+Subtask,,st5,104,100,
+Subtask,,st6,105,200,
+Subtask,,st7,106,200,
+Subtask,,st8,107,200,
+Subtask,,st9,108,200,
